@@ -15,4 +15,4 @@ Explore and categorize content based on specific criteria and keywords.
 
 The data for this project is sourced from the Kaggle dataset:
 
-Dataset Link: Movies Dataset
+Dataset Link: (https://github.com/RobinJangam/Netflix_sql/blob/main/netflix_titles.csv) 
